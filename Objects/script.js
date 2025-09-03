@@ -132,5 +132,15 @@
 // console.log(quickSort([1,5,7,5,3,78,43,21]))
 
 
+//---------------------Spread Operator---------------
+// function addStudent(student,...newStudents){
+//     for(let i of newStudents){
+//         student.push(i)
+//     }
+//     console.log(student)
+    
+// }
+// const student=["Pratik","Kedar"]
+// addStudent(student,"Hritik","Om")
 
-
+//output======>>>>>>>>>>  [ 'Pratik', 'Kedar', 'Hritik', 'Om' ]
