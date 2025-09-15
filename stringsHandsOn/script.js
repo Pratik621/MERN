@@ -61,3 +61,23 @@
 // }
 // let arr=[[...right],[...mid],[...left]]
 // console.log(arr.flat().join(""));
+
+let str="Hello World!";
+let vowels="aeiouAEIOU";
+let words=str.split(" ");
+for(let i=0;i<words.length;i++){
+   let word= words[i]
+   let hasVowel=false;
+   for(let j=0;j<word.length;j++){
+    if(vowels.includes(word[j])){
+        hasVowel=true;
+        break;
+    }
+}
+    if(hasVowel){
+        console.log(word)
+    }
+   }
+
+   //write a function to print all the palindromic substrings of a string 
+   

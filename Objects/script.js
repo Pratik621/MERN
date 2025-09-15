@@ -31,7 +31,7 @@
 // console.log("age=>",studentsObj.age)
 // console.log(studentsObj)
 
-//------------Output-------------------
+// ------------Output-------------------
 // undefined
 // { name: 'Raj', age: 24, city: 'Nagpur', hobby: 'Singing' }
 // Age=> 24
@@ -42,7 +42,7 @@
 
 // === Code Execution Successful ===
 
-//----------------------------------Nested Object In Array--------------
+// ----------------------------------Nested Object In Array--------------
 // const studentsObj={
 //     name:"Kedar"
 // }
@@ -54,7 +54,7 @@
 // ]
 // console.log(studentObjArr)
 
-//Output===============>[ { name: 'Kedar' }, { name: 'Pratik', age: 24 } ]
+// Output===============>[ { name: 'Kedar' }, { name: 'Pratik', age: 24 } ]
 
 
 
@@ -97,7 +97,7 @@
 
 // }
 
-//Output==========>Name=> Kedar   age=> 24 HouseNo=> 9
+// Output==========>Name=> Kedar   age=> 24 HouseNo=> 9
 //                 Name=> Laxmi   age=> 23 HouseNo=> 17
 
 
@@ -132,7 +132,7 @@
 // console.log(quickSort([1,5,7,5,3,78,43,21]))
 
 
-//---------------------Spread Operator---------------
+// ---------------------Spread Operator---------------
 // function addStudent(student,...newStudents){
 //     for(let i of newStudents){
 //         student.push(i)
@@ -143,4 +143,4 @@
 // const student=["Pratik","Kedar"]
 // addStudent(student,"Hritik","Om")
 
-//output======>>>>>>>>>>  [ 'Pratik', 'Kedar', 'Hritik', 'Om' ]
+// output======>>>>>>>>>>  [ 'Pratik', 'Kedar', 'Hritik', 'Om' ]
