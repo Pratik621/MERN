@@ -1,0 +1,22 @@
+.headline {
+    background-color:lightgoldenrodyellow ;
+    color: rgb(231, 44, 44)
+}
+.starter {
+    background-color: rgb(212, 253, 171);
+}
+.mainCourse {
+    background-color: rgb(212, 253,171);
+}
+.drinks {
+    background-color:rgb(250, 165, 20);
+}
+.todaysSpecial {
+    background-color: rgb(53, 196, 247);
+}
+.contact {
+    background-color: rgb(220, 220, 20);
+}
+.page {
+    background-color: rgb(186, 186, 186);
+}
